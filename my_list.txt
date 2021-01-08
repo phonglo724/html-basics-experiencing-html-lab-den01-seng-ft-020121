@@ -3,5 +3,3 @@
 "Birds"
 "Rabbits"
 "Squirrels"
-
-#the material we typed into this file is called the content. It's the thing we're trying to communicate.
